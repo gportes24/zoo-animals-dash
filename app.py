@@ -6,8 +6,8 @@ import plotly.graph_objs as go
 ########### Set up the chart
 
 myfavoritecolor='#9932CC'
-x_list=['Tiger', 'Bears', 'Snakes']
-y_list=y=[5, 2, 7]
+x_list=['Tiger', 'Bears', 'lions']
+y_list=y=[5, 2, 9]
 
 data = [go.Bar(
             x=x_list,
